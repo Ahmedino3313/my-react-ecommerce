@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
-import Products from "./pages/products";
-import ProductDetail from "./pages/productDetail";
-import Cart from "./pages/cart";
-import Navbar from "./components/navbar";
-import Checkout from "./pages/checkout";
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import ProductDetail from "./pages/ProductDetail";
+import Cart from "./pages/Cart";
+import Navbar from "./components/Navbar";
+import Checkout from "./pages/Checkout";
 
 function App() {
   return (
